@@ -1,0 +1,1 @@
+Produto, Nome= Arroz, Categoria= alimentício, Marca= Camil, Preço= 18.2
